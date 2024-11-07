@@ -15,24 +15,24 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
-  ui[7]: ""
+  ui[0]: "Connected to an AND statement with 1 to activate top and top right LEDs"
+  ui[1]: "Connected to an AND statement with 0 to activate top and top right LEDs"
+  ui[2]: "Goes to input w/ the same number"
+  ui[3]: "Goes to input w/ the same number"
+  ui[4]: "Goes to input w/ the same number"
+  ui[5]: "Goes to input w/ the same number"
+  ui[6]: "Connected to an XOR statement with 7 to activate top and top right LEDs"
+  ui[7]: "Connected to an XOR statement with 6 to activate top and top right LEDs"
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "Connected to an AND statement with 1 to activate top and top right LEDs"
+  uo[1]: "Connected to an AND statement with 1 to activate top and top right LEDs"
+  uo[2]: "Goes to input w/ the same number"
+  uo[3]: "Goes to input w/ the same number"
+  uo[4]: "Goes to input w/ the same number"
+  uo[5]: "Goes to input w/ the same number"
+  uo[6]: "Connected to an XOR statement with 7 to activate top and top right LEDs"
+  uo[7]: "Connected to an XOR statement with 6 to activate top and top right LEDs"
 
   # Bidirectional pins
   uio[0]: ""
